@@ -18,6 +18,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@main
+        uses: bmf87/badge-updater@main
         with:       
           CREDLY_USER: brett.favro@gmail.com # optional, but default will use the same from github
