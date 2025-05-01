@@ -1,9 +1,17 @@
-name: Update badges
+name: 'Update Credly Badges'
 
-on:
-  schedule:
+on: 
+  # push:
+  #   branches: [ master ]
+  # pull_request:
+  #   branches: [ master ]
+  #schedule:
     # Runs at 2am UTC
-    - cron: "0 2 * * *"
+    #- cron: "0 2 * * *"
+
+  # Enable manually running workflow from Actions tab
+  workflow_dispatch:
+
 jobs:
   update-readme:
     name: Update Readme with badges
