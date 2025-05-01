@@ -1,8 +1,9 @@
 ## Hi there 👋, I'm Brett
 
-🔭 I’m currently working on a Human Activity Recognition project using a 1D Convolutional Neural Network
-🌱 I’m passionate about learning Data Science and Machine Learning and am interested in creative uses of LLMs and MMLMs
-😄 Pronouns: He/Him
+* 🔭 I’m currently working on a Human Activity Recognition (HAR) project using a 1D Convolutional Neural Network
+* 🌱 I’m passionate about learning Data Science and Machine Learning and am interested in creative uses of LLMs and MMLMs
+* ✨ I'm also a strong advocate of Amazon Web Services
+* 😄 Pronouns: He/Him
 
 
 
