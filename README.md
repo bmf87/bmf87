@@ -5,7 +5,8 @@
 * ✨ I'm also a strong advocate of Amazon Web Services
 * 😄 Pronouns: He/Him
 
-
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 
 
