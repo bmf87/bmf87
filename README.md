@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there 👋, I'm Brett
+
+🔭 I’m currently working on a Human Activity Recognition project using a 1D Convolutional Neural Network
+🌱 I’m passionate about learning Data Science and Machine Learning and am interested in creative uses of LLMs and MMLMs
+😄 Pronouns: He/Him
+
+
+
+
+
+
 
 <!--
 **bmf87/bmf87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
