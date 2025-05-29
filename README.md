@@ -3,7 +3,7 @@
 * An experienced software engineer and student of Data Science
 * I’m currently working on a Human Activity Recognition (HAR) project using a 1D Convolutional Neural Network
 * I remain passionate about learning new technology, especially in the areas of Data Science and ML
-* Always interested in hearing and learing about creative uses of LLMs and MMLMs
+* Always interested in hearing and learning about creative uses of LLMs and MMLMs
 * I'm also a strong advocate of Amazon Web Services. Below are some of the certifications I've earned 🏆.
 
 
