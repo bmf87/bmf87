@@ -1,7 +1,7 @@
 ## Hello, I'm Brett :bowtie:
 
 * An experienced software engineer and student of Data Science
-* I’m currently working on a Human Activity Recognition (HAR) project using a 1D Convolutional Neural Network
+* I’m currently working on GenAI project called [PyData Copilot](https://github.com/bmf87/pydata_copilot") that is a conversational data analysis application for Python EDA. Check out the repo!
 * I remain passionate about learning new technology, especially in the areas of Data Science and ML
 * Always interested in hearing and learning about creative uses of LLMs and MMLMs
 * I'm also a strong advocate of Amazon Web Services. Below are some of the certifications I've earned 🏆.
